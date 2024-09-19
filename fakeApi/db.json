@@ -1,0 +1,343 @@
+{
+  "TrendingMakanan": [
+    {
+      "makanan": "Kapurung + Ikan",
+      "gambar": "https://i.pinimg.com/236x/47/fd/a5/47fda551d2e5f18b2cd5aee7f98309e4.jpg",
+      "author": "Abdillah P Al-Iman",
+      "warna": "#007F73",
+      "harga": "20000",
+      "tipe": "Makanan",
+      "kalori": "75 cal",
+      "desc": "Kapurung ini merupakan resep dari khas Luwu Raya/Palopo yang memiliki cita rasa nikmat tersendiri dan spesial yg berbeda dengan kapurung lainnya sehingga kapurung Luwu/palopo sangat banyak disukai orang ",
+      "ingredients": [
+        {"bahan": "Sagu"},
+        {"bahan": "Ikan"},
+        {"bahan": "Garam"},
+        {"bahan": "Ajinomoto"},
+        {"bahan": "Terong"},
+        {"bahan": "Lombo"},
+        {"bahan": "Bayam"},
+        {"bahan": "Air Ikan"},
+        {"bahan": "Biji Pattikala"},
+        {"bahan": "Jeruk Nipis"}
+      ],
+      "rate": "8.0",
+      "durasi": "18:12",
+      "videoDurasi": "22:12"
+    },
+    {
+      "makanan": "Kapurung + Udang",
+      "gambar": "https://i.pinimg.com/564x/1a/5d/aa/1a5daab1cbf143da8bd5cbf9ad7f5a0a.jpg",
+      "author": "Andi Aini",
+      "warna": "#F57D1F",
+      "harga": "22000",
+      "tipe": "Makanan",
+      "kalori": "80 cal",
+      "desc": "Kapurung ini merupakan resep dari khas Luwu Raya/Palopo yang memiliki cita rasa nikmat tersendiri dan spesial yg berbeda dengan kapurung lainnya sehingga kapurung Luwu/palopo sangat banyak disukai orang ",
+      "ingredients": [
+        {"bahan": "Sagu"},
+        {"bahan": "Udang"},
+        {"bahan": "Jagung"},
+        {"bahan": "Garam"},
+        {"bahan": "Ajinomoto"},
+        {"bahan": "Lombok"},
+        {"bahan": "Bayam"},
+        {"bahan": "Tomat"},
+        {"bahan": "Air Ikan"},
+        {"bahan": "Biji Pattikala"},
+        {"bahan": "Jeruk Nipis"}
+      ],
+      "rate": "7.2",
+      "durasi": "18:14",
+      "videoDurasi": "20:14"
+    },
+
+    {
+      "makanan": "Kapurung + Ayam",
+      "gambar": "https://i.pinimg.com/236x/b4/70/eb/b470eb538451993dce2399a8c66fba02.jpg",
+      "author": "Andi Aini",
+      "warna": "#C40C0C",
+      "harga": "26000",
+      "tipe": "Makanan",
+      "kalori": "75 cal",
+      "desc": "Kapurung ini merupakan resep dari khas Luwu Raya/Palopo yang memiliki cita rasa nikmat tersendiri dan spesial yg berbeda dengan kapurung lainnya sehingga kapurung Luwu/palopo sangat banyak disukai orang ",
+      "ingredients": [
+        {"bahan": "Sagu"},
+        {"bahan": "Ayam"},
+        {"bahan": "Garam"},
+        {"bahan": "Ajinomoto"},
+        {"bahan": "Gambas"},
+        {"bahan": "Lombo"},
+        {"bahan": "Bayam"},
+        {"bahan": "Air Ikan"},
+        {"bahan": "Biji Pattikala"},
+        {"bahan": "Jeruk Nipis"}
+      ],
+      "rate": "6.6",
+      "durasi": "18:33",
+      "videoDurasi": "22:33"
+    },
+    {
+      "makanan": "Ikan Bakar",
+      "gambar": "https://i.pinimg.com/564x/cc/7d/64/cc7d64a4f84aa625b1c13076cd47dcef.jpg",
+      "author": "Rahman Mande",
+      "warna": "#A79277",
+      "harga": "14000",
+      "tipe": "Makanan",
+      "kalori": "60 cal",
+      "desc": "Ikan bakar adalah hidangan yang populer di banyak negara di seluruh dunia, terutama di kawasan Asia Tenggara dan Amerika Latin. Hidangan ini umumnya terdiri dari ikan yang dibumbui dan dipanggang di atas bara api atau arang, memberikan cita rasa yang khas dan aroma yang menggoda.",
+      "ingredients": [
+        {"bahan": "IkanBolu/Bandeng"},
+        {"bahan": "Lombok"},
+        {"bahan": "Minyak Jalanta"},
+        {"bahan": "Garam Halus"},
+        {"bahan": "Masako"},
+        {"bahan": "Jeruk Nipis"},
+        {"bahan": "Bawang merah dan Putih"},
+        {"bahan": "'Daun Sereh"}
+      ],
+      "rate": "5.0",
+      "durasi": "08:45",
+      "videoDurasi": "12:45"
+    }
+  ],
+  "Makanan": [
+    {
+      "makanan": "Kapurung + Ikan",
+      "gambar": "https://i.pinimg.com/236x/47/fd/a5/47fda551d2e5f18b2cd5aee7f98309e4.jpg",
+      "author": "Abdillah P Al-Iman",
+      "warna": "#007F73",
+      "harga": "20000",
+      "tipe": "Makanan",
+      "kalori": "75 cal",
+      "desc": "Kapurung ini merupakan resep dari khas Luwu Raya/Palopo yang memiliki cita rasa nikmat tersendiri dan spesial yg berbeda dengan kapurung lainnya sehingga kapurung Luwu/palopo sangat banyak disukai orang ",
+      "ingredients": [
+        {"bahan": "Sagu"},
+        {"bahan": "Ikan"},
+        {"bahan": "Garam"},
+        {"bahan": "Ajinomoto"},
+        {"bahan": "Terong"},
+        {"bahan": "Lombo"},
+        {"bahan": "Bayam"},
+        {"bahan": "Air Ikan"},
+        {"bahan": "Biji Pattikala"},
+        {"bahan": "Jeruk Nipis"}
+      ],
+      "rate": "8.0",
+      "durasi": "18:12",
+      "videoDurasi": "22:12"
+    },
+    {
+      "makanan": "Kapurung + Udang",
+      "gambar": "https://i.pinimg.com/564x/1a/5d/aa/1a5daab1cbf143da8bd5cbf9ad7f5a0a.jpg",
+      "author": "Andi Aini",
+      "warna": "#F57D1F",
+      "harga": "22000",
+      "tipe": "Makanan",
+      "kalori": "80 cal",
+      "desc": "Kapurung ini merupakan resep dari khas Luwu Raya/Palopo yang memiliki cita rasa nikmat tersendiri dan spesial yg berbeda dengan kapurung lainnya sehingga kapurung Luwu/palopo sangat banyak disukai orang ",
+      "ingredients": [
+        {"bahan": "Sagu"},
+        {"bahan": "Udan"},
+        {"bahan": "Jagung"},
+        {"bahan": "Garam"},
+        {"bahan": "Ajinomoto"},
+        {"bahan": "Lombok"},
+        {"bahan": "Bayam"},
+        {"bahan": "Tomat"},
+        {"bahan": "Air Ikan"},
+        {"bahan": "Biji Pattikala"},
+        {"bahan": "Jeruk Nipis"}
+      ],
+      "rate": "7.2",
+      "durasi": "16:12",
+      "videoDurasi": "20:14"
+    },
+
+    {
+      "makanan": "Kapurung + Ayam",
+      "gambar": "https://i.pinimg.com/236x/b4/70/eb/b470eb538451993dce2399a8c66fba02.jpg",
+      "author": "Andi Aini",
+      "warna": "#C40C0C",
+      "harga": "26000",
+      "tipe": "Makanan",
+      "kalori": "75 cal",
+      "desc": "Kapurung ini merupakan resep dari khas Luwu Raya/Palopo yang memiliki cita rasa nikmat tersendiri dan spesial yg berbeda dengan kapurung lainnya sehingga kapurung Luwu/palopo sangat banyak disukai orang ",
+      "ingredients": [
+        {"bahan": "Sagu"},
+        {"bahan": "Ayam"},
+        {"bahan": "Garam"},
+        {"bahan": "Ajinomoto"},
+        {"bahan": "Gambas"},
+        {"bahan": "Lombo"},
+        {"bahan": "Bayam"},
+        {"bahan": "Air Ikan"},
+        {"bahan": "Biji Pattikala"},
+        {"bahan": "Jeruk Nipis"}
+      ],
+      "rate": "6.6",
+      "durasi": "18:33",
+      "videoDurasi": "22:33"
+    },
+    {
+      "makanan": "Ikan Bakar",
+      "gambar": "https://i.pinimg.com/564x/cc/7d/64/cc7d64a4f84aa625b1c13076cd47dcef.jpg",
+      "author": "Rahman Mande",
+      "warna": "#A79277",
+      "harga": "14000",
+      "tipe": "Makanan",
+      "kalori": "60 cal",
+      "desc": "Ikan bakar adalah hidangan yang populer di banyak negara di seluruh dunia, terutama di kawasan Asia Tenggara dan Amerika Latin. Hidangan ini umumnya terdiri dari ikan yang dibumbui dan dipanggang di atas bara api atau arang, memberikan cita rasa yang khas dan aroma yang menggoda.",
+      "ingredients": [
+        {"bahan": "IkanBolu/Bandeng"},
+        {"bahan": "Lombok"},
+        {"bahan": "Minyak Jalanta"},
+        {"bahan": "Garam Halus"},
+        {"bahan": "Masako"},
+        {"bahan": "Jeruk Nipis"},
+        {"bahan": "Bawang merah dan Putih"},
+        {"bahan": "'Daun Sereh"}
+      ],
+      "rate": "5.0",
+      "durasi": "08:45",
+      "videoDurasi": "12:45"
+    },
+    {
+      "makanan": "Ikan Masak",
+      "gambar": "https://i.pinimg.com/236x/ce/9b/23/ce9b23cad5ac7206556e4a5d33f7e09d.jpg",
+      "author": "Rahman Mande",
+      "warna": "#F57D1F",
+      "harga": "12000",
+      "tipe": "Makanan",
+      "kalori": "53 cal",
+      "desc": "Ikan bakar adalah hidangan yang populer di banyak negara di seluruh dunia, terutama di kawasan Asia Tenggara dan Amerika Latin. Hidangan ini umumnya terdiri dari ikan yang dibumbui dan dipanggang di atas bara api atau arang, memberikan cita rasa yang khas dan aroma yang menggoda.",
+      "ingredients": [
+        {"bahan": "Ikan Bolu/Bandeng"},
+        {"bahan": "Lombok"},
+        {"bahan": "Kunyit Halus"},
+        {"bahan": "Garam Halus"},
+        {"bahan": "Masako"},
+        {"bahan": "Jeruk Nipis"},
+        {"bahan": "Bawang Merah dan Putih"},
+        {"bahan": "Daun Sereh"},
+        {"bahan": "Daun Bawang"}
+      ],
+      "rate": "4.7",
+      "durasi": "14:54",
+      "videoDurasi": "14:54"
+    },
+    {
+      "makanan": "Ayam Bakar Sambal",
+      "gambar": "https://i.pinimg.com/564x/cb/e1/73/cbe1737ad09bbf2ae8957275d70f4761.jpg",
+      "author": "Nurfan Sanda",
+      "warna": "#C40C0C",
+      "harga": "12000",
+      "tipe": "Makanan",
+      "kalori": "100 cal",
+      "desc": "'yam bakar sambal adalah hidangan yang terdiri dari ayam yang dipanggang atau dibakar dengan bumbu sambal sebagai bahan utama untuk memberikan rasa pedas dan gurih. Ini adalah hidangan yang populer di banyak negara Asia Tenggara, terutama di Indonesia, Malaysia, dan Singapura.",
+      "ingredients": [
+        {"bahan": "AyamKampung"},
+        {"bahan": "Lombok"},
+        {"bahan": "Sayur Kol"},
+        {"bahan": "Garam Halus"},
+        {"bahan": "Ajinomoto"},
+        {"bahan": "BumbuRacikan"},
+        {"bahan": "Bawan Merah"},
+        {"bahan": "Minyak Jalanta"},
+        {"bahan": "unyit Halus"}
+      ],
+      "rate": "4.3",
+      "durasi": "12:20",
+      "videoDurasi": "17:20"
+    },
+    {
+      "makanan": "Ikan Goreng",
+      "gambar": "https://i.pinimg.com/236x/65/a3/7a/65a37ac0ad2a1ed194bca23674c259e0.jpg",
+      "author": "Hanna Ishikawa",
+      "warna": "#DC6B19",
+      "harga": "10000",
+      "tipe": "Makanan",
+      "kalori": "80 cal",
+      "desc": "Ikan goreng adalah hidangan populer di berbagai belahan dunia yang melibatkan ikan yang digoreng dalam minyak panas hingga matang. Proses penggorengan ini menghasilkan ikan yang memiliki kulit renyah di luar dan daging yang lembut dan empuk di dalam.",
+      "ingredients": [
+        {"bahan": "Ikan Tuna"},
+        {"bahan": "Minyak Goreng"},
+        {"bahan": "Kunyit Halus"},
+        {"bahan": "Garam"},
+        {"bahan": "Masako"},
+        {"bahan": "Jeruk Nipis"},
+        {"bahan": "Lombok"},
+        {"bahan": "Bumbu Racikan"},
+        {"bahan": "Sayur Kol"}
+      ],
+      "rate": "4.0",
+      "durasi": "03:30",
+      "videoDurasi": "07:30"
+    },
+    {
+      "makanan": "Nasi Goreng",
+      "gambar": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Abdillah P Al-Iman",
+      "warna": "#007F73",
+      "harga": "10000",
+      "tipe": "Makanan",
+      "kalori": "120 cal",
+      "desc": "'asi goreng adalah hidangan khas Asia Tenggara yang terdiri dari nasi yang digoreng bersama dengan berbagai bahan tambahan seperti daging, seafood, sayuran, telur, dan rempah-rempah. Hidangan ini populer di banyak negara di Asia Tenggara, termasuk Indonesia, Malaysia, Singapura, dan Thailand, dengan variasi lokal yang unik di setiap tempat.",
+      "ingredients": [
+        {"bahan": "Nasi"},
+        {"bahan": "Bawang Putih dan Merah"},
+        {"bahan": "Udang"},
+        {"bahan": "Sayuran"},
+        {"bahan": "Telur Ayam"},
+        {"bahan": "Kecap Asin"},
+        {"bahan": "Saus Tiram"},
+        {"bahan": "Minyak Goreng"},
+        {"bahan": "Bumbu Racikan"}
+      ],
+      "rate": "3.8",
+      "durasi": "07:10",
+      "videoDurasi": "11:10"
+    }
+  ],
+  "Kategori": [
+    {"title": "Makanan"},
+    {"title": "Sayuran"},
+    {"title": "Minuman"},
+    {"title": "Snack"},
+    {"title": "Sambal"}
+  ],
+  "dataKeranjang": [
+    {
+      "id": 1,
+      "makanan": "Kapurung + Ikan",
+      "gambar": "https://i.pinimg.com/236x/47/fd/a5/47fda551d2e5f18b2cd5aee7f98309e4.jpg",
+      "harga": 20000,
+      "qty": 0,
+      "check": false
+    },
+    {
+      "id": 2,
+      "makanan": "Kapurung + Udang",
+      "gambar": "https://i.pinimg.com/564x/1a/5d/aa/1a5daab1cbf143da8bd5cbf9ad7f5a0a.jpg",
+      "harga": 22000,
+      "qty": 0,
+      "check": false
+    },
+    {
+      "id": 3,
+      "makanan": "Kapurung + Ayam",
+      "gambar": "https://i.pinimg.com/236x/b4/70/eb/b470eb538451993dce2399a8c66fba02.jpg",
+      "harga": 26000,
+      "qty": 0,
+      "check": false
+    },
+    {
+      "id": 4,
+      "makanan": "Ikan Bakar",
+      "gambar": "https://i.pinimg.com/564x/cc/7d/64/cc7d64a4f84aa625b1c13076cd47dcef.jpg",
+      "harga": 14000,
+      "qty": 0,
+      "check": false
+    }
+  ]
+}
